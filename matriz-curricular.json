@@ -1,0 +1,661 @@
+{
+  "program": {
+    "credits_completed": 80, 
+    "hours_completed": 1470, 
+    "total_credits": 100, 
+    "total_hours": 1000
+  }, 
+  "students_program_history": [
+    {
+      "course": {
+        "code": "INF027", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 3, 
+        "hours": 60, 
+        "id": 1, 
+        "name": "Introdu\u00e7\u00e3o \u00e0 L\u00f3gica de Programa\u00e7\u00e3o", 
+        "program_id": 1, 
+        "program_section": 1
+      }, 
+      "grade": 8.5, 
+      "status": {
+        "description": "Aprovado", 
+        "id": 2
+      }, 
+      "times": 1
+    }, 
+    {
+      "course": {
+        "code": "INF026", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 3, 
+        "hours": 60, 
+        "id": 2, 
+        "name": "Introdu\u00e7\u00e3o \u00e0 Computa\u00e7\u00e3o", 
+        "program_id": 1, 
+        "program_section": 1
+      }, 
+      "grade": 9.4, 
+      "status": {
+        "description": "Aprovado", 
+        "id": 2
+      }, 
+      "times": 1
+    }, 
+    {
+      "course": {
+        "code": "MAT222", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 5, 
+        "hours": 90, 
+        "id": 3, 
+        "name": "Matem\u00e1tica I", 
+        "program_id": 1, 
+        "program_section": 1
+      }, 
+      "grade": 8.9, 
+      "status": {
+        "description": "Aprovado", 
+        "id": 2
+      }, 
+      "times": 1
+    }, 
+    {
+      "course": {
+        "code": "LET100", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 3, 
+        "hours": 60, 
+        "id": 4, 
+        "name": "L\u00edngua Portuguesa", 
+        "program_id": 1, 
+        "program_section": 1
+      }, 
+      "grade": 7.9, 
+      "status": {
+        "description": "Aprovado", 
+        "id": 2
+      }, 
+      "times": 1
+    }, 
+    {
+      "course": {
+        "code": "LET102", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 3, 
+        "hours": 60, 
+        "id": 5, 
+        "name": "Ingl\u00eas", 
+        "program_id": 1, 
+        "program_section": 1
+      }, 
+      "grade": 7.8, 
+      "status": {
+        "description": "Aprovado", 
+        "id": 2
+      }, 
+      "times": 1
+    }, 
+    {
+      "course": {
+        "code": "INF029", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 3, 
+        "hours": 60, 
+        "id": 6, 
+        "name": "Laborat\u00f3rio de Programa\u00e7\u00e3o", 
+        "program_id": 1, 
+        "program_section": 2
+      }, 
+      "grade": 6.3, 
+      "status": {
+        "description": "Aprovado", 
+        "id": 2
+      }, 
+      "times": 1
+    }, 
+    {
+      "course": {
+        "code": "INF006", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 5, 
+        "hours": 90, 
+        "id": 7, 
+        "name": "Estrutura de Dados e Algoritmos", 
+        "program_id": 1, 
+        "program_section": 2
+      }, 
+      "grade": 8.2, 
+      "status": {
+        "description": "Aprovado", 
+        "id": 2
+      }, 
+      "times": 1
+    }, 
+    {
+      "course": {
+        "code": "INF028", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 3, 
+        "hours": 60, 
+        "id": 8, 
+        "name": "Arquitetura de Computadores e Software B\u00e1sico", 
+        "program_id": 1, 
+        "program_section": 2
+      }, 
+      "grade": 10.0, 
+      "status": {
+        "description": "Aprovado", 
+        "id": 2
+      }, 
+      "times": 1
+    }, 
+    {
+      "course": {
+        "code": "INF031", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 4, 
+        "hours": 60, 
+        "id": 9, 
+        "name": "Metodologia da Pesquisa", 
+        "program_id": 1, 
+        "program_section": 2
+      }, 
+      "grade": 8.8, 
+      "status": {
+        "description": "Aprovado", 
+        "id": 2
+      }, 
+      "times": 1
+    }, 
+    {
+      "course": {
+        "code": "INF008", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 5, 
+        "hours": 90, 
+        "id": 10, 
+        "name": "Programa\u00e7\u00e3o Orientada a Objetos", 
+        "program_id": 1, 
+        "program_section": 3
+      }, 
+      "grade": 7.5, 
+      "status": {
+        "description": "Aprovado", 
+        "id": 2
+      }, 
+      "times": 1
+    }, 
+    {
+      "course": {
+        "code": "INF021", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 10, 
+        "hours": 300, 
+        "id": 11, 
+        "name": "Est\u00e1gio Supervisionado", 
+        "program_id": 1, 
+        "program_section": 3
+      }, 
+      "grade": 0, 
+      "status": {
+        "description": "N\u00e3o cursada", 
+        "id": 4
+      }, 
+      "times": 0
+    }, 
+    {
+      "course": {
+        "code": "INF009", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 4, 
+        "hours": 90, 
+        "id": 12, 
+        "name": "Sistemas Operacionais", 
+        "program_id": 1, 
+        "program_section": 3
+      }, 
+      "grade": 7.6, 
+      "status": {
+        "description": "Aprovado", 
+        "id": 2
+      }, 
+      "times": 1
+    }, 
+    {
+      "course": {
+        "code": "INF007", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 5, 
+        "hours": 90, 
+        "id": 13, 
+        "name": "Banco de Dados I", 
+        "program_id": 1, 
+        "program_section": 3
+      }, 
+      "grade": 8.2, 
+      "status": {
+        "description": "Aprovado", 
+        "id": 2
+      }, 
+      "times": 1
+    }, 
+    {
+      "course": {
+        "code": "ADM500", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 4, 
+        "hours": 60, 
+        "id": 14, 
+        "name": "Introdu\u00e7\u00e3o a Administra\u00e7\u00e3o", 
+        "program_id": 1, 
+        "program_section": 3
+      }, 
+      "grade": 7.7, 
+      "status": {
+        "description": "Aprovado", 
+        "id": 2
+      }, 
+      "times": 1
+    }, 
+    {
+      "course": {
+        "code": "INF011", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 5, 
+        "hours": 90, 
+        "id": 15, 
+        "name": "Padr\u00f5es de Projeto", 
+        "program_id": 1, 
+        "program_section": 4
+      }, 
+      "grade": 8.1, 
+      "status": {
+        "description": "Aprovado", 
+        "id": 2
+      }, 
+      "times": 1
+    }, 
+    {
+      "course": {
+        "code": "INF012", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 5, 
+        "hours": 90, 
+        "id": 16, 
+        "name": "Programa\u00e7\u00e3o Web", 
+        "program_id": 1, 
+        "program_section": 4
+      }, 
+      "grade": 8.6, 
+      "status": {
+        "description": "Aprovado", 
+        "id": 2
+      }, 
+      "times": 1
+    }, 
+    {
+      "course": {
+        "code": "INF015", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 3, 
+        "hours": 60, 
+        "id": 17, 
+        "name": "Redes de Computadores I", 
+        "program_id": 1, 
+        "program_section": 4
+      }, 
+      "grade": 8.0, 
+      "status": {
+        "description": "Aprovado", 
+        "id": 2
+      }, 
+      "times": 1
+    }, 
+    {
+      "course": {
+        "code": "INF010", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 5, 
+        "hours": 90, 
+        "id": 18, 
+        "name": "Banco de Dados II", 
+        "program_id": 1, 
+        "program_section": 4
+      }, 
+      "grade": 6.8, 
+      "status": {
+        "description": "Aprovado", 
+        "id": 2
+      }, 
+      "times": 1
+    }, 
+    {
+      "course": {
+        "code": "INF014", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 6, 
+        "hours": 90, 
+        "id": 19, 
+        "name": "Engenharia de Software", 
+        "program_id": 1, 
+        "program_section": 5
+      }, 
+      "grade": 0.0, 
+      "status": {
+        "description": "Cursando", 
+        "id": 1
+      }, 
+      "times": 1
+    }, 
+    {
+      "course": {
+        "code": "INF017", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 2, 
+        "hours": 60, 
+        "id": 20, 
+        "name": "Redes de Computadores II", 
+        "program_id": 1, 
+        "program_section": 5
+      }, 
+      "grade": 10.0, 
+      "status": {
+        "description": "Aprovado", 
+        "id": 2
+      }, 
+      "times": 1
+    }, 
+    {
+      "course": {
+        "code": "INF022", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 3, 
+        "hours": 60, 
+        "id": 21, 
+        "name": "T\u00f3picos Avan\u00e7ados", 
+        "program_id": 1, 
+        "program_section": 5
+      }, 
+      "grade": 0.0, 
+      "status": {
+        "description": "Cursando", 
+        "id": 1
+      }, 
+      "times": 2
+    }, 
+    {
+      "course": {
+        "code": "INF030", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 2, 
+        "hours": 30, 
+        "id": 22, 
+        "name": "M\u00e9todos Cient\u00edficos em Computa\u00e7\u00e3o", 
+        "program_id": 1, 
+        "program_section": 5
+      }, 
+      "grade": 6.7, 
+      "status": {
+        "description": "Aprovado", 
+        "id": 2
+      }, 
+      "times": 1
+    }, 
+    {
+      "course": {
+        "code": "ADM550", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 4, 
+        "hours": 60, 
+        "id": 23, 
+        "name": "Empreendedorismo", 
+        "program_id": 1, 
+        "program_section": 5
+      }, 
+      "grade": 8.7, 
+      "status": {
+        "description": "Aprovado", 
+        "id": 2
+      }, 
+      "times": 1
+    }, 
+    {
+      "course": {
+        "code": "HUM100", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 4, 
+        "hours": 60, 
+        "id": 24, 
+        "name": "Filosofia", 
+        "program_id": 1, 
+        "program_section": 5
+      }, 
+      "grade": 0.0, 
+      "status": {
+        "description": "Cursando", 
+        "id": 1
+      }, 
+      "times": 3
+    }, 
+    {
+      "course": {
+        "code": "INF018", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 3, 
+        "hours": 60, 
+        "id": 25, 
+        "name": "Auditoria de Sistemas", 
+        "program_id": 1, 
+        "program_section": 6
+      }, 
+      "grade": 0, 
+      "status": {
+        "description": "N\u00e3o cursada", 
+        "id": 4
+      }, 
+      "times": 0
+    }, 
+    {
+      "course": {
+        "code": "INF019", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 4, 
+        "hours": 60, 
+        "id": 26, 
+        "name": "Ger\u00eancia de Projetos", 
+        "program_id": 1, 
+        "program_section": 6
+      }, 
+      "grade": 0, 
+      "status": {
+        "description": "N\u00e3o cursada", 
+        "id": 4
+      }, 
+      "times": 0
+    }, 
+    {
+      "course": {
+        "code": "INF016", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 5, 
+        "hours": 90, 
+        "id": 27, 
+        "name": "Arquitetura de Software", 
+        "program_id": 1, 
+        "program_section": 6
+      }, 
+      "grade": 0, 
+      "status": {
+        "description": "N\u00e3o cursada", 
+        "id": 4
+      }, 
+      "times": 0
+    }, 
+    {
+      "course": {
+        "code": "INF020", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 3, 
+        "hours": 60, 
+        "id": 28, 
+        "name": "Sistemas Distribu\u00eddos", 
+        "program_id": 1, 
+        "program_section": 6
+      }, 
+      "grade": 0, 
+      "status": {
+        "description": "N\u00e3o cursada", 
+        "id": 4
+      }, 
+      "times": 0
+    }, 
+    {
+      "course": {
+        "code": "INF023", 
+        "course_type_id": {
+          "description": "Obrigat\u00f3ria", 
+          "id": 1
+        }, 
+        "credits": 3, 
+        "hours": 90, 
+        "id": 29, 
+        "name": "Trabalho Final de Curso", 
+        "program_id": 1, 
+        "program_section": 6
+      }, 
+      "grade": 0, 
+      "status": {
+        "description": "N\u00e3o cursada", 
+        "id": 4
+      }, 
+      "times": 0
+    }, 
+    {
+      "course": {
+        "code": "HUM102", 
+        "course_type_id": {
+          "description": "Optativa", 
+          "id": 2
+        }, 
+        "credits": 4, 
+        "hours": 60, 
+        "id": 30, 
+        "name": "Psicologia aplicada ao trabalho", 
+        "program_id": 1, 
+        "program_section": 2
+      }, 
+      "grade": 8.0, 
+      "status": {
+        "description": "Aprovado", 
+        "id": 2
+      }, 
+      "times": 1
+    }, 
+    {
+      "course": {
+        "code": "ADM545", 
+        "course_type_id": {
+          "description": "Optativa", 
+          "id": 2
+        }, 
+        "credits": 4, 
+        "hours": 60, 
+        "id": 31, 
+        "name": "Legisla\u00e7\u00e3o em Inform\u00e1tica", 
+        "program_id": 1, 
+        "program_section": 5
+      }, 
+      "grade": 0, 
+      "status": {
+        "description": "N\u00e3o cursada", 
+        "id": 4
+      }, 
+      "times": 0
+    }
+  ]
+}

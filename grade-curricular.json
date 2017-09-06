@@ -1,0 +1,58 @@
+[
+    {
+        "courses" : [
+                    { "code":"INF027", "name":"Introdução à Lógica","charge":"60","credits":"3","media":"10","status":"2","times":"1"},
+                    { "code":"INF026", "name":"Introdução à Computação","charge":"60","credits":"3","media":"9","status":"2","times":"1"},
+                    { "code":"MAT222", "name":"Matemática I","charge":"90","credits":"5","media":"7","status":"2","times":"1"},
+                    { "code":"LET100", "name":"Língua Portuguesa","charge":"60","credits":"3","media":"8","status":"2","times":"1"},
+                    { "code":"LET102", "name":"Inglês","charge":"60","credits":"3","media":"8","status":"2","times":"1"}
+                ]
+    },
+    {
+        "courses" : [
+                    { "code":"INF029", "name":"Laboratório de Programação","charge":"60","credits":"3","media":"10","status":"2","times":"1"},
+                    { "code":"INF006", "name":"Estruturas de Dados e Algoritmos","charge":"90","credits":"5" ,"media":"4","status":"2","times":"1"},
+                    { "code":"INF028", "name":"Arquitetura de Computadores e Software Básico","charge":"60","credits":"3","media":"5","status":"6","times":"1"},
+                    { "code":"INF031", "name":"Metodologia da Pesquisa","charge":"60","credits":"4","media":"6","status":"2","times":"1"},
+                    { "code":"OPTATIVA", "name":"OPTATIVA I","charge":"60","credits":"3","media":"7","status":"2","times":"1"}
+
+                ]
+    },
+    {
+        "courses" : [
+                    { "code":"INF008", "name":"Programação Orientada a Objetos","charge":"90","credits":"5","media":"5","status":"2","times":"1"},
+                    { "code":"INF006", "name":"Estruturas de Dados e Algoritmos","charge":"90","credits":"5" ,"media":"8","status":"2","times":"2"},
+                    { "code":"INF009", "name":"Sistemas Operacionais","charge":"90","credits":"4","media":"5","status":"2","times":"1"},
+                    { "code":"INF007", "name":"Banco de Dados I","charge":"90","credits":"5","media":"5","status":"3","times":"1"},
+                    { "code":"ADM500", "name":"Introdução à Administração","charge":"60","credits":"4" ,"media":"5","status":"2","times":"1"}
+                ]
+    },
+    {
+        "courses" : [
+                    { "code":"INF011", "name":"Padrões de Projeto","charge":"90","credits":"5","status":"0","times":"0"},
+                    { "code":"INF012", "name":"Programação Web","charge":"90","credits":"5","status":"1","times":"2"},
+                    { "code":"INF015", "name":"Redes de Computadores I","charge":"60","credits":"3","status":"1","times":"0"},
+                    { "code":"INF010", "name":"Banco de Dados II","charge":"90","credits":"5","status":"1","times":"2"}
+                ]
+    },
+    {
+        "courses" : [
+                    { "code":"INF014", "name":"Engenharia de Software","charge":"90","credits":"6","status":"0","times":"0"},
+                    { "code":"INF017", "name":"Redes de Computadores II","charge":"60","credits":"2","status":"1","times":"3"},
+                    { "code":"INF022", "name":"Tópicos Avançados","charge":"60","credits":"3","status":"0","times":"0"},
+                    { "code":"INF030", "name":"Métodos Científicos em Computação","charge":"30","credits":"2","status":"0","times":"0"},
+                    { "code":"ADM550", "name":"Empreendedorismo","charge":"60","credits":"4","status":"0","times":"0"},
+                    { "code":"HUM100", "name":"Filosofia","charge":"60","credits":"4","status":"4","times":"0"}
+                ]
+    },
+    {
+        "courses" : [
+                    { "code":"INF018", "name":"Auditoria de Sistemas","charge":"60","credits":"3","status":"0","times":"1"},
+                    { "code":"INF019", "name":"Gerência de Projetos","charge":"60","credits":"4","status":"0","times":"3"},
+                    { "code":"INF016", "name":"Arquitetura de Software","charge":"90","credits":"5","status":"0","times":"2"},
+                    { "code":"INF020", "name":"Sistemas Distribuídos","charge":"60","credits":"3","status":"0","times":"1"},
+                    { "code":"INF023", "name":"Trabalho Final de Curso","charge":"90","credits":"3","status":"0","times":"2"},
+                    { "code":"OPTATIVA", "name":"OPTATIVA II","charge":"60","credits":"3","status":"0","times":"0"}
+                ]
+    }
+]
